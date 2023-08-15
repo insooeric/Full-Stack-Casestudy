@@ -7,7 +7,10 @@ Full-Stack project
 A Full-Stack website that uses MySQL database, powered by Azure web hosting service
 
 ## Getting Started
-
+* NOTE: this repository is only for viewing codes.
+        the code is executed as a Website using Azure.
+  Link: (https://ericson.azurewebsites.net/#/login?nextUrl=/)
+  
 ### Dependencies
 * Built and Executed in Unity 2022.3.7f1
 ### Installing
