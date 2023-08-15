@@ -9,42 +9,27 @@ A Full-Stack website that uses MySQL database, powered by Azure web hosting serv
 ## Getting Started
 * NOTE: this repository is only for viewing codes.
         the code is executed as a Website using Azure.
+        the Main branch includes Front-End of this project.
   
 * [Website link](https://ericson.azurewebsites.net/#/login?nextUrl=/)
   
 ### Dependencies
-* Built and Executed in Unity 2022.3.7f1
-### Installing
-
-* File "/Exports" includes an executable file.
-
-### Executing program
-
-* Run Executable file under "Exports/UnityPrototype5.exe"
+* Built using ASP.Net Core 7.x
 
 ## Help
 
-* Start the game by selecting the difficulty
-* Click flying objects to destroy them.
-* Any objects except for the bomb grants points.
-* Failing to pop the accurate object will promote game over.
+* Back-End server side project
 
 ## Authors
 
 Insoo Son [@LinkedIn]()
 
 ## Version History
-* 1.0
-    * Executable file added
 * 0.2
-    * Small Bugs fixed
-    * Fixed compatibility issues
+    * Front-End added
 * 0.1
     * Initial Commit
 
 ## License
 
 none
-
-## Acknowledgments
-* Fruit Ninja Game
