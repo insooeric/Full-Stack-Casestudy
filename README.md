@@ -1,11 +1,10 @@
-# Fruit Ninja Mock Game
+# Casestudy
 
-Mock game of a Fruit Ninja.
+Full-Stack project
 
 ## Description
 
-A simple 2D game built in a 3D platform where the player clicks and pops the object thrown from the bottom.
-This project is inspired by one of the famous games called Fruit Ninja. 
+A Full-Stack website that uses MySQL database, powered by Azure web hosting service
 
 ## Getting Started
 
