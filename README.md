@@ -9,6 +9,7 @@ A Full-Stack website that uses MySQL database, powered by Azure web hosting serv
 ## Getting Started
 * NOTE: this repository is only for viewing codes.
         the code is executed as a Website using Azure.
+  
   [LINK](https://ericson.azurewebsites.net/#/login?nextUrl=/)
   
 ### Dependencies
